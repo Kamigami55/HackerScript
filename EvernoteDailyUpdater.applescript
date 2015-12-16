@@ -21,6 +21,7 @@ tell application "Evernote"
 <b>學習紀錄：</b><hr />
 <b>任務紀錄：</b><hr />
 <b>反省：</b><hr />
+<b>覺得很重要的概念：</b><hr />
 <b>筆記：</b>
 "
 end tell
