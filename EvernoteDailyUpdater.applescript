@@ -17,11 +17,11 @@ tell application "Evernote"
 	end repeat
 	
 	create note notebook "@Life Online" tags {newTag, "@Diary"} title theTitle with html "
-<b>日記：</b><hr />
-<b>學習紀錄：</b><hr />
-<b>任務紀錄：</b><hr />
-<b>反省：</b><hr />
-<b>覺得很重要的概念：</b><hr />
-<b>筆記：</b>
+<b>日記：</b><div><br/></div><hr />
+<b>學習紀錄：</b><div><br/></div><hr />
+<b>任務紀錄：</b><div><br/></div><hr />
+<b>反省：</b><div><br/></div><hr />
+<b>覺得很重要的概念：</b><div><br/></div><hr />
+<b>筆記：<div><br/></div></b>
 "
 end tell
