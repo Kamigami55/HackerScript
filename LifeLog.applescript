@@ -41,5 +41,6 @@ tell application "Evernote"
 <b>Introspection:</b><div><br/></div><hr />
 <b>Important Things:</b><div><br/></div><hr />
 <b>Note:<div><br/></div></b>
+<b>Photos:<div><br/></div></b>
 "
 end tell
