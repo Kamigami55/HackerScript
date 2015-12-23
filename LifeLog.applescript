@@ -40,7 +40,7 @@ tell application "Evernote"
 <b>To-do Log:</b><div><br/></div><hr />
 <b>Introspection:</b><div><br/></div><hr />
 <b>Important Things:</b><div><br/></div><hr />
-<b>Note:<div><br/></div></b>
-<b>Photos:<div><br/></div></b>
+<b>Note:</b><div><br/></div><hr />
+<b>Photos:</b><div><br/></div>
 "
 end tell
