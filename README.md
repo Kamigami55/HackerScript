@@ -1,10 +1,11 @@
 # HackerScript
-Get the shits done
+Get shit done!
 
 AppleScripts that make my life better.
 
 ## Index of scripts
 - [LifeLog](#LifeLog)
+- [OneClick](#OneClick)
 
 <h2 id="LifeLog">LifeLog</h2>
 
@@ -18,3 +19,13 @@ This script does the following things:
 - (WIP)Add your iCalender events yesterday to your yesterday's lifelog note. 
 - (WIP)Add your Todoist to-dos that you done yesterday to your yesterday's lifelog note. 
 - (WIP)Add your new notes' links yesterday to your yesterday's lifelog note. 
+
+<h2 id="OneClick">OneClick</h2>
+
+An AppleScript that automatically launch some apps
+
+This script will launch the following apps:
+- Safari
+- LINE
+- Mail
+- Evernote
